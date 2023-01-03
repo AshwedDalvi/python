@@ -11,3 +11,4 @@ if result==num:
 else:
     print("Given number is not Armstrong number")
 print("thank you")
+print("thank you")
