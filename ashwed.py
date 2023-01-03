@@ -10,3 +10,4 @@ if result==num:
     print("Given number is Armstrong number")
 else:
     print("Given number is not Armstrong number")
+print("thank you")
